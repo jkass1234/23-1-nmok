@@ -1,10 +1,20 @@
 ---
 title: "Wiki Entry Template"
 subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
-author: "Your Name"
+author: "Judith Kaß"
 categories:
-  - "Media Psychology"
   - "Digital Media"
-  - "Well Being"
----
 
+## J.B. Bayer et al. (2016). Consciousness and Self-Regualtion in Mobile Communication. *Human Communication Research 42 (2016) 71–97*. doi:10.1111/hcre.12067
+
+**(K):** “By integrating Studies 1 and 2, we see how different forms of media cognition are linked and, at the same time, how they differ from each other in their relationships to overall self-regulation.“ (p. 89)
+**(A):** The paper mostly argues that the media use are a mix of automatic and immersive habits but peoples cognitive and individual tendencies while using media might differ. In this study self-regulation and everybody’s ability to self-regulate is a personal tendency. 
+**(R):** Many studies emphasize the importance of self-regulation and conscious awareness in managing mobile device use and avoiding negative consequences. This article highlights the role of consciousness in shaping individuals' behaviour. Other studies deal with consciousness as present or not present. In this study consciousness is more or less present. This assumption alone allows better insight into behavioural processes. Furthermore it reveals a more complex view on self-regulation and behaviour. It declares impulsiveness as a personal trait that results in better or worse self-regulation toward texting.
+**(Q)** On which level does consciousness influence self-regulation or mindfulness?
+      Where to differentiate automaticity and immersion?
+
+The paper „Consciousness and Self-Regulation in Mobile Communication“ is dealing with the *impacts of media cognition on each individuals media use*. It was written by Joseph B. Bayer, Sonya Dal Cin, Scott W. Campell and Elliot Panek in 2016 and clarifies a different concept of consciousness as more or less present. For this purpose *automaticity and immersion as forms of consciousness* are examined.
+Automaticity is declared by 4 dimensions: lack of attention, lack of awareness, lack of intention and lack of control (p. 73). Immersion is defined with maximal behavioural attention and awareness and is similar to automaticity (p. 74). Therefore the paper examines if automatic and immersive orientations during texting are independent (p. 75). Another interest of this paper is the *tendency to auto-immerse (behaviour and media- specific view on high and low consciousness) and the effects on self-regulation*.
+Two studies were conducted with an online survey from 2012 with 1.100 participants. Texting itself was differentiate in starting texts, sending texts, checking texts and reading texts where every participant had to answer different items for each phase. In the first study there were items to detect texting frequency and affect, texting automaticity and texting immersion. 
+Results show that starting, sending and reading texts are a mix of automatic and immersive behaviour while checking texts was declared more automatic. Moreover not only the behaviour of a person can be described as automatic or immersive but also the attitude towards the type of media. Automaticity and immersion are also linked to the emotional reward while texting. 
+The items used in the second study are based on previous validated items from other papers. The items were used to identify individual habits or impulses. Results shows that individual auto-immersion is negatively linked to perceived self control whereas immersive tendencies are not related to self-reported self-control. The study also reveals that automatic tendencies of participants have a negative impact on present-moment attention on mindfulness. On the other hand immersion was positively related to it. 
