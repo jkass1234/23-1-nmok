@@ -1,0 +1,33 @@
+---
+title: "Exercise 09"
+subtitle: "BA New Media / Online Communication KF/BF A: Spring Term 2023"
+author: "Felix Dietrich"
+categories:
+  - "Media Psychology"
+  - "Digital Media"
+  - "Well Being"
+csl: "../bib/apa.csl"
+bibliography: "../bib/23-1-nmok.bib"
+suppress-bibliography: true
+link-citations: false
+---
+
+## Consolidate the Wiki Project
+
+Please check and discuss the comments in the `Pull Requests` section of the main repository. Check the comments below your own wiki entry first:
+
+- Please add a comment that includes the following information
+  - Research area of your choice
+  - APA7 citation of the selected paper
+- Add additional comments that respond to questions or requests from Felix
+- Make sure the entry is useful and understandable for reader who do not know the full paper
+
+Next, check the wiki entries of other students:
+
+- Respond to *at least* two questions that were brought up by your fellow students or the lecturer
+- Try to make suggestions how the entry could be improved
+- Ask questions if you don't understand something
+
+## Group Discussion
+
+Discuss and try to extract the role of individual autonomy need experiences from the papers that you have read, but also more generally regarding the research area that you are dealing with.
